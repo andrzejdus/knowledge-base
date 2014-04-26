@@ -1,5 +1,3 @@
-## Characters encoding
-
 ### Unicode - encoding characters to numbers
 Unicode assigns each character unique code point.
 
