@@ -37,3 +37,4 @@ UTF is defined by Unicode and ISO/IEC 10646 standards (with some diffetences).
 |:-:|:-:|
 |Windows 2000/XP/2003/Vista/7/8/CE|UTF-16|
 |Java 5+|UTF-16|
+|JavaScript|UCS-2|
