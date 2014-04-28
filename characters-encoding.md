@@ -5,7 +5,7 @@ Unicode assigns each character unique code point.
 
 > code point - a number assigned to each character
 
-Unicode code points are divided into 17 planes of 2^16 characters.
+Unicode code points are divided into 17 planes (groups) of 2^16 characters.
 
 > BMP - Basic Multilingual Plane, code points from U+0000 to U+FFFF
 
