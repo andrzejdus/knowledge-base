@@ -9,5 +9,8 @@ Switch to previous branch
 Remove remote branch
 * git push origin :the_remote_branch
 
+Perserve merges on rebase
+* git rebase --preserve-merges
+
 ### Links
 [Difference between HEAD / Working Tree / Index in Git](http://stackoverflow.com/questions/3689838/difference-between-head-working-tree-index-in-git)
