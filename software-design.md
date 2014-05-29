@@ -1,6 +1,7 @@
 ### General
 * encapsulate concept that varies
 * SOLID
+ * [in pictures](http://lostechies.com/derickbailey/2009/02/11/solid-development-principles-in-motivational-pictures)
  * SRP - Single responsibility principle
  * OCP - Open/closed principle
  * LSP - Liskov substitution principle (square vs rectangle)
