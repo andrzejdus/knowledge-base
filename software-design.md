@@ -3,9 +3,9 @@
 * SOLID
  * SRP - Single responsibility principle
  * OCP - Open/closed principle
- * LSP - Liskov substitution principle
- * ISP - Interface segregation principle
- * DIP - Dependency inversion principle
+ * LSP - Liskov substitution principle (square vs rectangle)
+ * ISP - Interface segregation principle (worker, person, robot example)
+ * DIP - Dependency inversion principle (http://lostechies.com/gabrielschenker/2009/01/30/the-dependency-inversion-principle/)
 
 ### Inheritance
 * favor object composition over class inheritance
