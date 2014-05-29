@@ -30,6 +30,9 @@
 * template
 * decorator
 * adapter
+* proxy
+* bridge
+* facade
 * composite
 * command
 * observer
@@ -41,7 +44,9 @@
 * object pool
 * thread pool
 * connection pool
-* mediator
+* * mediator
+
+* [decorator vs adapter vs bridge vs facade](http://stackoverflow.com/questions/350404/how-do-the-proxy-decorator-adapter-and-bridge-patterns-differ)
 
 ### API Design
 * consistency, information hiding, loose coupling
