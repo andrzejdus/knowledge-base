@@ -4,3 +4,4 @@
 * design :D - https://hackdesign.org/lessons/
 * svg animation, reponsivnes and many more https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/present#slide=id.p
 * jswiki libraries catalogue - http://jswiki.org/
+* Exploring JavaScript’s Logical OR Operator - http://addyosmani.com/blog/exploring-javascripts-logical-or-operator/
