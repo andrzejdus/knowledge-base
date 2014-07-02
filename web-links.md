@@ -1,3 +1,4 @@
+* markdown reference - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * competition- https://github.com/dypsilon/frontend-dev-bookmarks
 * above all es* compatibility tables - http://kangax.github.io/
 * surprisingly clean web docs - http://msdn.microsoft.com/en-us/library/ie/hh828809
