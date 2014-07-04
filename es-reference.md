@@ -1,3 +1,4 @@
-|                 | Are           | Cool  |
+|                 |               |       |
 | --------------- |---------------|-------|
-| Array.isArray() | right-aligned | $1600 |
+| Array.isArray() |               |       |
+ 
