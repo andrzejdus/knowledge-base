@@ -7,4 +7,5 @@
 * jswiki libraries catalogue - http://jswiki.org/
 * Exploring JavaScript’s Logical OR Operator - http://addyosmani.com/blog/exploring-javascripts-logical-or-operator/
 * ES6 new fearutres - https://github.com/lukehoban/es6features/blob/master/README.md#ecmascript-6-gitioes6features
-* JavaScript Patterns = http://shichuan.github.io/javascript-patterns/
+* JavaScript Patterns - http://shichuan.github.io/javascript-patterns/
+* 10 Most Common JavaScript Mistakes - http://www.toptal.com/javascript/10-most-common-javascript-mistakes
