@@ -1,1 +1,1 @@
-* leaders job: what problem has to be solved and why
+* leader's job: what problem has to be solved and **why**
