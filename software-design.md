@@ -48,6 +48,14 @@
 
 * [decorator vs adapter vs bridge vs facade](http://stackoverflow.com/questions/350404/how-do-the-proxy-decorator-adapter-and-bridge-patterns-differ)
 
+#### Categorisation by Gamma et al. from 2009
+* Core: Composite, Strategy, State, Command, Iterator, Proxy, Template Method, Facade
+* Creational: Factory, Prototype, Builder, Dependency Injection
+* Peripheral: Abstract Factory, Visitor, Decorator, Mediator, Type Object, Null Object, Extension Object
+* Other: Flyweight, Interpreter
+
+
+
 ### API Design
 * consistency, information hiding, loose coupling
 * model the problem domain
