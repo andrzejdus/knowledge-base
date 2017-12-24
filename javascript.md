@@ -1,3 +1,4 @@
+### Web resources
 * es2015+ cheatsheets - https://devhints.io/es6
 * markdown reference - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * competition- https://github.com/dypsilon/frontend-dev-bookmarks
@@ -10,3 +11,8 @@
 * ES6 new fearutres - https://github.com/lukehoban/es6features/blob/master/README.md#ecmascript-6-gitioes6features
 * JavaScript Patterns - http://shichuan.github.io/javascript-patterns/
 * 10 Most Common JavaScript Mistakes - http://www.toptal.com/javascript/10-most-common-javascript-mistakes
+
+### Ideas
+* mutation observers
+* Object.observe() - http://www.html5rocks.com/en/tutorials/es7/observe/
+
