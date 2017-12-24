@@ -1,5 +1,6 @@
 ### Web resources
 * es2015+ cheatsheets - https://devhints.io/es6
+* es spec discourse - http://es-discourse.com
 * markdown reference - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * competition- https://github.com/dypsilon/frontend-dev-bookmarks
 * above all ES* compatibility tables - http://kangax.github.io/
@@ -15,4 +16,3 @@
 ### Ideas
 * mutation observers
 * Object.observe() - http://www.html5rocks.com/en/tutorials/es7/observe/
-
