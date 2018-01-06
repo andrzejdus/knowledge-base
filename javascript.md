@@ -8,6 +8,7 @@
 * ES6 new fearutres - https://github.com/lukehoban/es6features/blob/master/README.md#ecmascript-6-gitioes6features
 * JavaScript Patterns - http://shichuan.github.io/javascript-patterns/
 * 10 Most Common JavaScript Mistakes - http://www.toptal.com/javascript/10-most-common-javascript-mistakes
+* JavaScript Design Patterns (Addy Osmani) https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 ### Ideas
 * mutation observers
